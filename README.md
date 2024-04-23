@@ -6,11 +6,12 @@ It replaces the legacy Query/400 and provides an SQL/RPG style scripting langaug
 With SQL iQuery you can:
 <ul><li>Command Entry</li><li>HTML/Javscript Web pages</li><li>CL programs</li><li>menus</li><li>the job scheduler</li>
 <li>batch jobs</li></ul>
-
-# Download and Installation Instructions
+<h2>Download and Installation Instructions</h2> 
 <p>To download SQL iQuery for IBM i <b>V7R3</b> and later <a alt="SQL iQuery *SAVF for IBM i V7R3 and later" href="https://www.dropbox.com/scl/fi/afd55qfv56ra3wfh4ifes/IQUERY.savf?rlkey=t5u6kx3jq32hmbkba2v9wy72n&dl=0">click here for IBM i v7r3+ build</a></p>
 <p>To download SQL iQuery for IBM i <b>V7R2</b> and later <a href="https://www.dropbox.com/scl/fi/075h48qp436c0njsq9k0n/IQUERY72.savf?rlkey=ucj1quzz958mncroqwsbkxjw7&dl=0">click here for IBM i v7r2 build</a></p>
 <p><a href="https://www.dropbox.com/scl/fi/3si0yp2cwgrbteggyzt66/SQL-iQuery-Script.pdf?rlkey=rpbod94h8syocrgg55w17umbj&dl=0">SQL iQuery Script Reference Manual (in development)</a></p>
+<p>Existing SQL iQuery customers can update to this version at no charge. It contains bug fixes and minor enhancements over the V7 version.<p>
+
 <h3>Installation Instructions</h3>
 <p>After you download the iQuery.savf save file, it must be uploaded to your IBM i operating system server. You can do that using FTP binary transfer from Windows, Mac OS, or Linux based PCs</p>
 I normally upload it to the QGPL library. If the file suffix being uploaded is <b>.savf</b> FTP should create a valid SAVF object on the system. If it is something else, such as iquery.FILE then FTP will NOT create a valid save file on the server.
