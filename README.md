@@ -10,7 +10,8 @@ With SQL iQuery you can:
 <p>To download SQL iQuery for IBM i <b>V7R2</b> and later <a href="https://www.dropbox.com/scl/fi/075h48qp436c0njsq9k0n/IQUERY72.savf?rlkey=ucj1quzz958mncroqwsbkxjw7&dl=1">click here for IBM i v7r2 build</a></p>
 <p><a href="https://www.dropbox.com/scl/fi/3si0yp2cwgrbteggyzt66/SQL-iQuery-Script.pdf?rlkey=rpbod94h8syocrgg55w17umbj&dl=0">SQL iQuery Script Reference Manual (in development)</a></p>
 <p>Existing SQL iQuery customers can update to this version at no charge. It contains bug fixes and minor enhancements over the V7 version.<p>
-
+<h4>Service, Support and Training</h4>
+  <p>While SQL iQuery is completely free, users may request support, enhancements, training and local user group (LUG) lectures for a reasonable fee. Contact Bob Cozzi here or on linked in for more information.</p>
 <h3>Installation Instructions</h3>
 <p>After you download the iQuery.savf save file, it must be uploaded to your IBM i operating system server. You can do that using FTP binary transfer from Windows, Mac OS, or Linux based PCs</p>
 I normally upload it to the QGPL library. If the file suffix being uploaded is <b>.savf</b> FTP should create a valid SAVF object on the system. If it is something else, such as iquery.FILE then FTP will NOT create a valid save file on the server.
