@@ -1,6 +1,6 @@
 # SQLiQuery
 <b>SQL iQuery</b> for IBM i *SAVF download image
-Licensed Program 2COZ-iq8 
+Licensed Program 2COZ-IQ8 
 <p>It is a Web, CL and Interactive SQL query tool for IBM i, replacing the legacy Query/400 and provides an SQL/RPG style scripting langauge for more powerful queries.</p>
 With SQL iQuery you can run SQL in any of the following environments:</p>
 <ul><li>Command Entry</li><li>HTML/Javscript Web pages</li><li>CL programs</li><li>menus</li><li>the job scheduler</li>
