@@ -54,7 +54,8 @@ The following are recenty enhancements and fixes to SQL iQuery
 <tr>
   <td>21-SEP-2023</td><td>Corrected an issue when STMF(XXXXXXX) is specified and STMFNAME(*STMF) is also
               specified. The program would create a folder named XXXXXXX and then create
-              the output streamfile on the IFS in /home/<user>/xxxxxxx/xxxxxxx.xls
-              Now it works as expected and creates the file /home/<user>/xxxxxxx.xls</td>
+              the output streamfile on the IFS in /home/&lt;user&gt;/xxxxxxx/xxxxxxx.xls
+              Now it works as expected and creates the file /home/&lt;user&gt;/xxxxxxx.xls</td>
+                
 </tr>
 </table>
