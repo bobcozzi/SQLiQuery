@@ -28,7 +28,7 @@ To check which version, if any, you currently have installed, use the LICPGM men
 <pre>RSTLICPGM 2cozIQ8 *SAVF SAVF(QGPL/IQUERY)</pre>
 <p>Note: Use the save file name IQUERY72 if you are running on IBM i V7R2.</p>
 <p>Once complete, you are prompted for some install-time customizations. After that screen is completed, SQL iQuery is installed and ready to go.</p>
-<p>We include several SQL iQuery Scripts with SQL iQuery, to verify that everything is working, you can run the <i>demo</i> script by running the following CL command:</p>
+<p>We include several SQL iQuery Scripts with SQL iQuery. You can verify that everything is installed correctly by running one of these scripts. For example our <i>demo</i> script can be run by running the following CL command:</p>
 <pre>RUNiQRY *DEMO</pre>
 <h3>Fixes and Enhancements Log</h3>
 The following are recenty enhancements and fixes to SQL iQuery
