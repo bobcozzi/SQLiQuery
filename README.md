@@ -36,6 +36,10 @@ The following are recenty enhancements and fixes to SQL iQuery
   <tr>
     <th>Released Date</th><th>Description</th>
   </tr>
+  <tr><td>21-JUNE-2024</td>
+    <td>Corrected an issue withe IQRYEMAIL - the SQL iQuery interface that evokes the email client selected during installation. It was not clearing a structure and 
+    caused garbage characters to appear in the email when sending attachments.</td>
+  </tr>
   <tr><td>10-MAY-2024</td>
   <td><p>Converted SQL iQuery to a no-charge (non-license key) product. Anyone may download, install and use SQL iQuery for free; no license key required.</p>
     <p>Support and training are chargable, if needed. Please contact Bob Cozzi for support and training options.</p></td></tr>
