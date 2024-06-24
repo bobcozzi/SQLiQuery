@@ -6,7 +6,7 @@ With SQL iQuery you can run SQL in any of the following environments:</p>
 <ul><li>Command Entry</li><li>HTML/Javscript Web pages</li><li>CL programs</li><li>menus</li><li>the job scheduler</li>
 <li>batch jobs</li></ul>
 <h2>Download and Installation Instructions</h2> 
-<p>To download SQL iQuery for IBM i <b>V7R3</b> and later <a alt="SQL iQuery *SAVF for IBM i V7R3 and later" href="[https://www.dropbox.com/scl/fi/afd55qfv56ra3wfh4ifes/IQUERY.savf?rlkey=t5u6kx3jq32hmbkba2v9wy72n&dl=1](https://www.dropbox.com/scl/fi/jw6ynqyks47h9rdtecn5v/IQUERY.zip?rlkey=n8pt6jm8mttvgl3yyqtunuhtw&dl=1">click here for IBM i v7r3+ build</a></p>
+<p>To download SQL iQuery for IBM i <b>V7R3</b> and later <a alt="SQL iQuery *SAVF for IBM i V7R3 and later"<a href="https://www.dropbox.com/scl/fi/jw6ynqyks47h9rdtecn5v/IQUERY.zip?rlkey=n8pt6jm8mttvgl3yyqtunuhtw&dl=1">click here for IBM i v7r3+ build</a></p>
 <p>To download SQL iQuery for IBM i <b>V7R2</b> and later <a href="https://www.dropbox.com/scl/fi/6es3zlfe7jltgk223522a/IQUERY72.zip?rlkey=rn7o5l1wq4lby7czol5gvlkt0&dl=1">click here for IBM i v7r2 build</a></p>
 <p><a href="https://www.dropbox.com/scl/fi/3si0yp2cwgrbteggyzt66/SQL-iQuery-Script.pdf?rlkey=rpbod94h8syocrgg55w17umbj&dl=1">SQL iQuery Script Reference Manual (in development)</a></p>
 <p>Existing SQL iQuery customers can update to this version at no charge. It contains bug fixes and minor enhancements over prior versions.<p>
