@@ -6,10 +6,11 @@ With SQL iQuery you can run SQL in any of the following environments:</p>
 <ul><li>Command Entry</li><li>HTML/Javscript Web pages</li><li>CL programs</li><li>menus</li><li>the job scheduler</li>
 <li>batch jobs</li></ul>
 <h2>Download and Installation Instructions</h2> 
-<p>To download SQL iQuery for IBM i <b>V7R3</b> and later <a alt="SQL iQuery *SAVF for IBM i V7R3 and later"<a href="https://www.dropbox.com/scl/fi/jw6ynqyks47h9rdtecn5v/IQUERY.zip?rlkey=n8pt6jm8mttvgl3yyqtunuhtw&dl=1">click here for IBM i v7r3+ build</a></p>
-<p>To download SQL iQuery for IBM i <b>V7R2</b> and later <a href="https://www.dropbox.com/scl/fi/6es3zlfe7jltgk223522a/IQUERY72.zip?rlkey=rn7o5l1wq4lby7czol5gvlkt0&dl=1">click here for IBM i v7r2 build</a></p>
+<p>To download SQL iQuery for IBM i locate the "Release" link on the right side of this page and select the appropriate build for your IBM i release level.
+  For <b>V7R3</b> and later select the IQUERY.SAVF file. 
+  For <b>V7R2</b> select the IQUERY72.SAVF file.</p>
 <p><a href="https://www.dropbox.com/scl/fi/3si0yp2cwgrbteggyzt66/SQL-iQuery-Script.pdf?rlkey=rpbod94h8syocrgg55w17umbj&dl=1">SQL iQuery Script Reference Manual (in development)</a></p>
-<p>Existing SQL iQuery customers can update to this version at no charge. It contains bug fixes and minor enhancements over prior versions.<p>
+<p>Existing SQL iQuery customers can update to this version at no charge. It contains bug fixes and minor enhancements over prior versions and removes the License Key requirement. It now installs on any IBM i server.<p>
 <h4>Service, Support and Training</h4>
   <p>While SQL iQuery is completely free, users may request support, enhancements, training and local user group (LUG) lectures for a reasonable fee. 
     Send a <a href="mailto:bob@sqliquery.com?subject=SQL%20iQuery%20paid%20support%20request&body=Bob%2C%0AI%20have%20an%20SQL%20iQuery%20support%20question.%20Please%20provide%20a%20Quote%20for%20Support%20for%20the%20following%20issue%3A%0A--Insert%20your%20support%20question%20here--%0A%0AThank%20you%0A">request for support</a> to Bob Cozzi or contact him on <a href="https://www.linkedin.com/in/bob-cozzi-32432510/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BCcq9zKB8QAWi%2FCSH5ZAvUg%3D%3D">LinkedIn</a> for more information.</p>
